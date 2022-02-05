@@ -1,0 +1,15 @@
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/DiscordBot
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/DiscordBot.deps.json
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/DiscordBot.runtimeconfig.json
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/DiscordBot.dll
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/ref/DiscordBot.dll
+/home/plx/Source/DiscordBot/bin/Debug/net6.0/DiscordBot.pdb
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.csproj.AssemblyReference.cache
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.AssemblyInfoInputs.cache
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.AssemblyInfo.cs
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.csproj.CoreCompileInputs.cache
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.dll
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/ref/DiscordBot.dll
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.pdb
+/home/plx/Source/DiscordBot/obj/Debug/net6.0/DiscordBot.genruntimeconfig.cache
